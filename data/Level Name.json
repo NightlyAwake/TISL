@@ -2,7 +2,7 @@
     "id": 57436521,
     "name": "Level Name",
     "author": "Creator",
-    "creators": [Creator],
+    "creators": ["Creator"],
     "verifier": "Verifier",
     "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
     "percentToQualify": "100",
